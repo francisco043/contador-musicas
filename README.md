@@ -36,3 +36,6 @@ Apos a incializacao do codigo ele vai incrementar ou subtrair uma variavel final
 >* FONTES UTILIZADOS: 
 DEVELOPER -
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
+
+AUTOR
+FRANCISCO
