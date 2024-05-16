@@ -32,3 +32,7 @@ Apos a incializacao do codigo ele vai incrementar ou subtrair uma variavel final
 >* html
 >* live serve
 >* vscode
+
+>* FONTES UTILIZADOS: 
+DEVELOPER -
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
